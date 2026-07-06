@@ -49,6 +49,7 @@ Compared business lending with bank loans.
 Examined account balances across customer segments.
 Built interactive KPI cards and slicers for dynamic analysis.
 Project Workflow
+
 Dataset
       │
       ▼
@@ -86,4 +87,4 @@ Banking-Customer-Analytics-Dashboard/
 │   ├── Summary.png
 │
 ├── README.md
-└── LICENSE
+
